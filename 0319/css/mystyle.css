@@ -1,0 +1,19 @@
+@charset "utf-8";
+#caption {
+    color: #FF0004;
+    font-size: xx-large;
+    text-align: center;
+}
+#maincontent {
+    color: #03FF00;
+    text-align: left;
+    font-size: x-large;
+    font-style: italic;
+}
+#secondcontent {
+    color: #0000FF;
+    text-align: right;
+    font-size: large;
+    font-style: oblique;
+    font-weight: 900;
+}
