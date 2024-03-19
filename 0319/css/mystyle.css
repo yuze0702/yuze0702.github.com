@@ -1,26 +1,29 @@
 @charset "utf-8";
+
 #caption {
-    color: #F0FF00;
-    font-size: xx-large;
-    text-align: center;
-    background-color: #FF0005;
+  color: #F0FF00;
+  font-size: xx-large;
+  text-align: center;
+  background-color: #FF0005;
 }
+
 #maincontent {
-    color: #004FFF;
-    text-align: left;
-    font-size: x-large;
-    font-style: italic;
-    background-color: #42FF00;
+  color: #004FFF;
+  text-align: left;
+  font-size: x-large;
+  font-style: italic;
+  background-color: #42FF00;
 }
+
 #secondcontent {
-    color: #FF9300;
-    text-align: right;
-    font-size: large;
-    font-style: oblique;
-    font-weight: 900;
-    background-color: #1500FF;
+  color: #FF9300;
+  text-align: right;
+  font-size: large;
+  font-style: oblique;
+  font-weight: 900;
+  background-color: #1500FF;
 }
-#caption img {
-}
-#maincontent img {
-}
+
+#caption img {}
+
+#maincontent img {}
