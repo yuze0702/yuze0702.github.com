@@ -2,22 +2,22 @@ h1 {
   color: blue;
 }
 
-.head {
+#head {
   text-align: center;
 }
 
-.index {
+#index {
   font-size: 20px;
   list-style: none;
   padding: 0;
   text-align: center;
 }
 
-.index li {
+#index li {
   position: relative;
 }
 
-.index li::before {
+#index li::before {
   content: "\2022";
   display: inline-block;
   width: 10px;
