@@ -42,6 +42,7 @@ a:hover {
 }
 
 a:active {
+  color: #FFED00
   background-color: black;
   font-style: italic;
 }
