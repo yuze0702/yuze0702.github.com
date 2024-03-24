@@ -1,3 +1,11 @@
+h1 {
+    color: blue;
+}
+
+list1 {
+    font-size: 20px;
+}
+
 a:link {
     text-decoration: none;
 }
