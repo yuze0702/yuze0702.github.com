@@ -1,18 +1,18 @@
 a:link {
-  text-decoration: none;
+    text-decoration: none;
 }
 
 a:visited {
-  color: palevioletred;
+    color: palevioletred;
 }
 
 a:hover {
-  color: brown;
-  font-weight: bold;
-  text-decoration: underline dotted;
+    color: brown;
+    font-weight: bold;
+    text-decoration: underline dotted;
 }
 
 a:active {
-  background-color: black;
-  foint-style: italic;
+    background-color: black;
+    foint-style: italic;
 }
