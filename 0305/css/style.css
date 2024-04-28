@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.business-card {
+    width: 400px;
+    margin: 50px auto;
+    border-collapse: collapse;
+    background-color: #fff;
+}
+
+.avatar img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+
+.details {
+    padding: 20px;
+}
+
+.university,
+.department,
+.name {
+    margin: 0;
+    font-weight: bold;
+    color: #333;
+}
+
+.email {
+    margin-top: 10px;
+    color: #666;
+}/* CSS Document */
+
